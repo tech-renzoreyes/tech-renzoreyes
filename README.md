@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy Renzo 👋
 
 <!--
 **tech-renzoreyes/tech-renzoreyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
