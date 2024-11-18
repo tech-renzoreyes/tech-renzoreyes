@@ -2,6 +2,8 @@
 <h1 align="center">Hola, soy <a href="https://github.com/tech-renzoreyes">Renzo</a> 👋</h1>
 </div>
 
+<br>
+
 <div>
 <img src="https://i.imgur.com/CA2oXOe.jpeg" alt="Imagen de Renzo">
 </div>
