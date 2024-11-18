@@ -1,8 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://github.com/tech-renzoreyes">Renzo</a> 👋</h1>
 </div>
-<img src="https://imgur.com/a/PnT17Ht.jpg">
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/PnT17Ht" data-context="false" ><a href="//imgur.com/a/PnT17Ht"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://i.imgur.com/abc123.jpg" alt="Imagen de Renzo">
+
 [![GitHub followers](https://img.shields.io/github/followers/tech-renzoreyes?style=social)](https://github.com/tech-renzoreyes)
 
 ## Sobre mí
