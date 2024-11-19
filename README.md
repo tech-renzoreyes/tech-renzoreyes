@@ -111,7 +111,7 @@
 -->
 ### ⚙️ &nbsp;GitHub Analytics
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td>
       <a href="https://github.com/tech-renzoreyes">
@@ -125,3 +125,4 @@
     </td>
   </tr>
 </table>
+
