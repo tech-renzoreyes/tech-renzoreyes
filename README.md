@@ -9,7 +9,7 @@
 </div>
 
 [![GitHub followers](https://img.shields.io/github/followers/tech-renzoreyes?style=social)](https://github.com/tech-renzoreyes)
-![LinkedIn followers](https://img.shields.io/badge/Seguidores%20en%20LinkedIn-500-blue?logo=linkedin)
+[![LinkedIn](https://img.shields.io/badge/Seguidores%20en%20LinkedIn-500-blue?logo=linkedin)](https://www.linkedin.com/in/renzoreyes01/)
 
 
 ## Sobre mí
