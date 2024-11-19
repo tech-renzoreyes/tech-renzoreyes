@@ -9,7 +9,7 @@
 </div>
 
 [![GitHub followers](https://img.shields.io/github/followers/tech-renzoreyes?style=social)](https://github.com/tech-renzoreyes)
-[![LinkedIn](https://img.shields.io/badge/-ᴿᵉⁿᶻᵒ%20ᴿᵉʸᵉˢ-blue?logo=Linkedin&logoColor=white&style=social)](https://www.linkedin.com/in/renzoreyes01)
+[![LinkedIn](https://img.shields.io/badge/-re%20ree-blue?logo=Linkedin&logoColor=white&style=social)](https://www.linkedin.com/in/renzoreyes01)
 
 
 
