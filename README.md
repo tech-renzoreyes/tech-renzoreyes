@@ -27,6 +27,7 @@
 - 💼 Experiencia en help desk, codificación y gestión de proyectos de TI.    
 - ✋🏻 Apasionado por resolver problemas con tecnología, organizado, responsable y resiliente.  
 
+##
 
   <a href="https://github.com/tech-renzoreyes">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-renzoreyes&layout=compact&langs_count=8&theme=radical&custom_title=Soft%20Skill"/>
