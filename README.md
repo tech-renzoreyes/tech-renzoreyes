@@ -8,14 +8,15 @@
 <img src="https://i.imgur.com/CA2oXOe.jpeg" alt="Imagen de Renzo">
 </div>
 
-<p align="center">
+<div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://github.com/tech-renzoreyes" target="_blank">
     <img src="https://img.shields.io/github/followers/tech-renzoreyes?style=social" alt="GitHub followers">
   </a>
   <a href="https://www.linkedin.com/in/renzoreyes01" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn">
   </a>
-</p>
+</div>
+
 
 
 
