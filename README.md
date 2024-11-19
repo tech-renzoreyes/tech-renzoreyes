@@ -8,7 +8,7 @@
 <img src="https://i.imgur.com/CA2oXOe.jpeg" alt="Imagen de Renzo">
 </div>
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<div style="display: flex; align-items: center; gap: 15px;">
   <a href="https://github.com/tech-renzoreyes" target="_blank">
     <img src="https://img.shields.io/github/followers/tech-renzoreyes?style=social" alt="GitHub followers">
   </a>
