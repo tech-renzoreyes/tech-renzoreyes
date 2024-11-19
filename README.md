@@ -12,6 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/Renzo%20Reyes-blue?logo=Linkedin&logoColor=white&style=social)](https://www.linkedin.com/in/renzoreyes01)
 
 
+
 ## Sobre mí
 
 - 🎓 Estudiante de Ingeniería en Sistemas y egresado de Desarrollo de Sistemas.  
