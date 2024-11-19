@@ -10,9 +10,10 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/tech-renzoreyes?style=social)](https://github.com/tech-renzoreyes)
 
-<a href="https://www.linkedin.com/in/renzoreyes01" target="_blank">
+<a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
   <img src="https://img.shields.io/badge/-Renzo%20Reyes-blue?logo=Linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
 </a>
+
 
 ## Sobre mí
 
