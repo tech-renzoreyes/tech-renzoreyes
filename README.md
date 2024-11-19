@@ -111,20 +111,10 @@
 -->
 ### ⚙️ &nbsp;GitHub Analytics
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/tech-renzoreyes">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tech-renzoreyes&show_icons=true&theme=radical&custom_title=An%C3%A1lisis%20de%20GitHub&include_all_commits=true&count_private=true"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/tech-renzoreyes">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-renzoreyes&layout=compact&langs_count=8&theme=radical&custom_title=Soft%20Skill"/>
-      </a>
-    </td>
-  </tr>
-</table>
+  <a href="https://github.com/tech-renzoreyes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-renzoreyes&layout=compact&langs_count=8&theme=radical&custom_title=Soft%20Skill"/>
+  </a>
+
 
 
 
