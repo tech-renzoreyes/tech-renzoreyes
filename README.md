@@ -111,7 +111,6 @@
 -->
 ### ⚙️ &nbsp;GitHub Analytics
 
-<h3 align="center">Análisis de GitHub</h3>
 <table align="center">
   <tr>
     <td>
@@ -121,11 +120,12 @@
     </td>
     <td>
       <a href="https://github.com/tech-renzoreyes">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tech-renzoreyes&layout=compact&langs_count=8&theme=algolia"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-renzoreyes&layout=compact&langs_count=8&theme=radical&custom_title=Lenguajes%20más%20usados"/>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
