@@ -109,7 +109,6 @@
 </div>
 <br>
 -->
-### ⚙️ &nbsp;Analytics
 
   <a href="https://github.com/tech-renzoreyes">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-renzoreyes&layout=compact&langs_count=8&theme=radical&custom_title=Soft%20Skill"/>
