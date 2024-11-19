@@ -117,19 +117,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tech-renzoreyes&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-### 🌐 &nbsp;Conecta conmigo
-
-<p align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <a href="https://github.com/tech-renzoreyes" target="_blank">
-    <img src="https://img.shields.io/github/followers/tech-renzoreyes?style=social" alt="GitHub followers">
-  </a>
-  <a href="https://www.linkedin.com/in/renzoreyes01" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn">
-  </a>
-</p>
-
-
-
-
-
