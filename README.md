@@ -21,18 +21,11 @@
 </div>
 
 
-
-
-
-
 ## Sobre mí
 
 - 🎓 Estudiante de Ingeniería en Sistemas y egresado de Desarrollo de Sistemas.  
-- 💼 Experiencia en help desk, codificación y gestión de proyectos de TI.  
-- 🛠️ Habilidades en Java, C#, Python, SQL, Excel y Power BI.  
-- 🔍 Interesado en roles como QA Jr., Developer Jr. o Data Analyst Trainee.  
+- 💼 Experiencia en help desk, codificación y gestión de proyectos de TI.    
 - ✋🏻 Apasionado por resolver problemas con tecnología, organizado, responsable y resiliente.  
-- 🌐 Inglés A2 con disposición para seguir mejorando en distintos contextos.  
 
 
 <!-- Este proyecto no es tuyo, pertenece a otro repositorio
