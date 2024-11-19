@@ -115,7 +115,7 @@
   <tr>
     <td>
       <a href="https://github.com/tech-renzoreyes">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tech-renzoreyes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tech-renzoreyes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=An%C3%A1lisis%20de%20GitHub"/>
       </a>
     </td>
     <td>
@@ -125,6 +125,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
