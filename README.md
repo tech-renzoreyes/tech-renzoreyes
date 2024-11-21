@@ -30,13 +30,7 @@
 ##
 
 
-
-[![Renzo Reyes](https://github-readme-stats-eight-theta.vercel.app/api?username=tech-renzoreyes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/tech-renzoreyes)
-
-
-
-
-
+[![Renzo Reyes](https://github-readme-stats-eight-theta.vercel.app/api?username=tech-renzoreyes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&custom_title=RenzoReyes'sGitHubStats)](https://github.com/tech-renzoreyes)
 
   <a href="https://github.com/tech-renzoreyes">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-renzoreyes&layout=compact&langs_count=8&theme=radical&custom_title=Soft%20Skill"/>
