@@ -31,7 +31,7 @@
 
 
 
-[![Renzo Reyes 2](https://github-readme-stats.vercel.app/api?username=tech-renzoreyes&locale=es&&include_all_commits=true&count_private=true&show_icons=true&theme=radical)](https://github.com/tech-renzoreyes)
+[![Renzo Reyes 2](https://github-readme-stats-eight-theta.vercel.app/api?username=tech-renzoreyes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/tech-renzoreyes)
 
 
 
