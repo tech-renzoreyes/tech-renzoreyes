@@ -31,7 +31,7 @@
 
 
 
-[![Renzo Reyes 2](https://github-readme-stats.vercel.app/api?username=tech-renzoreyes&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/tech-renzoreyes)
+[![Renzo Reyes 2](https://github-readme-stats.vercel.app/api?username=tech-renzoreyes&count_private=true&show_icons=true&es&theme=tokyonight)](https://github.com/tech-renzoreyes)
 
   <a href="https://github.com/tech-renzoreyes">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-renzoreyes&layout=compact&langs_count=8&theme=radical&custom_title=Soft%20Skill"/>
