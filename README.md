@@ -29,7 +29,7 @@
 
 ##
 
-![Renzo Reyes GitHub stats](https://github-readme-stats.vercel.app/api?username=tech-renzoreyes&show_icons=true&theme=transparent)
+
 
 [![Renzo Reyes 2](https://github-readme-stats.vercel.app/api?username=tech-renzoreyes&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/tech-renzoreyes)
 
