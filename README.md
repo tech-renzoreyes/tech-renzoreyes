@@ -29,6 +29,8 @@
 
 ##
 
+![Renzo Reyes GitHub stats](https://github-readme-stats.vercel.app/api?username=tech-renzoreyes&show_icons=true&theme=transparent)
+
   <a href="https://github.com/tech-renzoreyes">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-renzoreyes&layout=compact&langs_count=8&theme=radical&custom_title=Soft%20Skill"/>
   </a>
