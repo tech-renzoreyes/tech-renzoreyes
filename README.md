@@ -29,18 +29,33 @@ Analista de Innovación y Tecnología con experiencia en **operaciones de TI, au
 
 <div align="center">
 
-<!-- Iconos minimalistas unificados -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode,gcp,postman,bash" alt="Tech Stack" />
-</a>
+### 🛠️ Tech Stack & Herramientas
+
+<div align="center">
+
+#### Análisis de Datos & Bases de Datos
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+
+#### Desarrollo & Cloud
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+
+#### Automatización & Gestión Corporativa
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
+<img src="https://img.shields.io/badge/SharePoint-036C70?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white" alt="SharePoint" />
+<img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Apps Script" />
+<img src="https://img.shields.io/badge/Scrum-0058A8?style=for-the-badge&logo=scrum-alliance&logoColor=white" alt="Scrum" />
 
 </div>
-
-<br>
-
-- **Análisis & Datos:** Python, SQL (PostgreSQL, SQL Server), Power BI, Grafana, Superset.
-- **Automatización & Integraciones:** APIs REST, Dapta (No-Code), Google Apps Script, Salesforce.
-- **Gestión & Metodologías:** Agilidad (Scrum / Design Thinking), BPMN, Gestión de Incidentes & SLAs (Freshservice).
 
 ---
 
