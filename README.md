@@ -31,7 +31,7 @@ Analista de Innovación y Tecnología con experiencia en **operaciones de TI, au
 
 <!-- Iconos minimalistas unificados -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mssql,git,github,vscode,gcp,postman,bash" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode,gcp,postman,bash" alt="Tech Stack" />
 </a>
 
 </div>
@@ -48,7 +48,7 @@ Analista de Innovación y Tecnología con experiencia en **operaciones de TI, au
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=tech-renzoreyes&show_icons=true&theme=transparent&hide_border=true&title_color=007acc&icon_color=007acc&text_color=a0a0a0" alt="GitHub Stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-renzoreyes&layout=compact&theme=transparent&hide_border=true&title_color=007acc&text_color=a0a0a0" alt="Top Languages" />
+<img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tech-renzoreyes&show_icons=true&theme=transparent&hide_border=true&title_color=007acc&icon_color=007acc&text_color=a0a0a0" alt="GitHub Stats" />
+<img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tech-renzoreyes&layout=compact&theme=transparent&hide_border=true&title_color=007acc&text_color=a0a0a0" alt="Top Languages" />
 
 </div>
